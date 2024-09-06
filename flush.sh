@@ -22,6 +22,7 @@ NODES=(
     "https://github.com/EeroHeikkinen/ComfyUI-eesahesNodes"
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/XLabs-AI/x-flux-comfyui"
 )
 
 CHECKPOINT_MODELS=(
@@ -51,6 +52,7 @@ ESRGAN_MODELS=(
 CONTROLNET_MODELS=(
     "https://civitai.com/api/download/models/726743?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/722001?type=Model&format=SafeTensor"
+    "https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union/blob/main/diffusion_pytorch_model.safetensors"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
