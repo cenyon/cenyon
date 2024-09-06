@@ -45,6 +45,10 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
 )
 
 ESRGAN_MODELS=(
