@@ -19,10 +19,11 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    
+    "https://github.com/EeroHeikkinen/ComfyUI-eesahesNodes.git"
 )
 
 CHECKPOINT_MODELS=(
+    "https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4.safetensors"
 )
 
 CLIP_MODELS=(
@@ -46,6 +47,8 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
+    "https://civitai.com/api/download/models/726743?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/722001?type=Model&format=SafeTensor"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
