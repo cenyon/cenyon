@@ -43,12 +43,16 @@ NODES=(
     "https://github.com/syllebra/bilbox-comfyui"
     "https://github.com/wallish77/wlsh_nodes"
     "https://github.com/cubiq/ComfyUI_InstantID"
+    "https://github.com/Extraltodeus/ComfyUI-AutomaticCFG"
+    "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini"
+    "https://github.com/adieyal/comfyui-dynamicprompts"
 )
 
 CHECKPOINT_MODELS=(
     "https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4.safetensors"
     "https://civitai.com/models/623525/flux1d-16gb?modelVersionId=697065"
     "https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors"
+    "https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 CLIP_MODELS=(
@@ -63,6 +67,14 @@ UNET_MODELS=(
 )
 
 VAE_MODELS=(
+)
+
+INSTANTID_MODELS=(
+    "https://huggingface.co/InstantX/InstantID/resolve/main/ip-adapter.bin"
+)
+
+INSIGHTFACEANTELOPEV2_MODELS=(
+    "https://huggingface.co/MonsterMMORPG/tools/resolve/main/antelopev2.zip"
 )
 
 LORA_MODELS=(
@@ -130,6 +142,12 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/vae" \
         "${VAE_MODELS[@]}"
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/models/instantid" \
+        "${INSTANTID_MODELS[@]}"
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/models/insightface/models/antelopev2" \
+        "${INSIGHTFACEANTELOPEV2_MODELS[@]}"
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/clip" \
         "${CLIP_MODELS[@]}"
