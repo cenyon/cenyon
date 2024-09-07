@@ -23,10 +23,23 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/XLabs-AI/x-flux-comfyui"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
+    "https://github.com/JPS-GER/ComfyUI_JPS-Nodes"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/twri/sdxl_prompt_styler"
+    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    "https://github.com/picturesonpictures/comfy_PoP"
+    "https://github.com/jags111/efficiency-nodes-comfyui"
+    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
+    
 )
 
 CHECKPOINT_MODELS=(
     "https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4.safetensors"
+    "https://civitai.com/models/623525/flux1d-16gb?modelVersionId=697065"
 )
 
 CLIP_MODELS=(
@@ -42,14 +55,17 @@ VAE_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://civitai.com/api/download/models/706528?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/712531?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/804837?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
 )
 
 ESRGAN_MODELS=(
@@ -59,8 +75,8 @@ ESRGAN_MODELS=(
 )
 
 CONTROLNET_MODELS=(
-    "https://civitai.com/api/download/models/726743?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/722001?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/726743?type=Model&format=SafeTensor"
     "https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union/blob/main/diffusion_pytorch_model.safetensors"
 )
 
