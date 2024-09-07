@@ -34,12 +34,21 @@ NODES=(
     "https://github.com/picturesonpictures/comfy_PoP"
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
-    
+    "https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/BlenderNeko/ComfyUI_TiledKSampler"
+    "https://github.com/chflame163/ComfyUI_LayerStyle"
+    "https://github.com/Ryuukeisyou/comfyui_face_parsing"
+    "https://github.com/Gourieff/comfyui-reactor-node"
+    "https://github.com/syllebra/bilbox-comfyui"
+    "https://github.com/wallish77/wlsh_nodes"
+    "https://github.com/cubiq/ComfyUI_InstantID"
 )
 
 CHECKPOINT_MODELS=(
     "https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4.safetensors"
     "https://civitai.com/models/623525/flux1d-16gb?modelVersionId=697065"
+    "https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors"
 )
 
 CLIP_MODELS=(
@@ -49,6 +58,8 @@ CLIP_MODELS=(
 )
 
 UNET_MODELS=(
+    "https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8-e4m3fn.safetensors"
+    "https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8-e5m2.safetensors"
 )
 
 VAE_MODELS=(
