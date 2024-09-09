@@ -85,16 +85,21 @@ INSIGHTFACEANTELOPEV2_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/706528?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/712531?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo bmbpflx
     "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/739372?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/756239?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/804837?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/756239?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/817482?type=Model&format=SafeTensor" #Best Jean Shorts (Daisy Dukes) - NSFW "8357J34N5" "pussy peek, wide thigh gap"  "revealing cutoff jean shorts"
+    "https://civitai.com/api/download/models/820397?type=Model&format=SafeTensor" #realistic skin texture: "detailed photorealism style"
 )
 
 ESRGAN_MODELS=(
