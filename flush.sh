@@ -73,6 +73,11 @@ INSTANTID_MODELS=(
     "https://huggingface.co/InstantX/InstantID/resolve/main/ip-adapter.bin"
 )
 
+INSIGHTFACE_MODELS=(
+    "https://huggingface.co/datasets/Gourieff/ReActor/resolve/main/models/inswapper_128.onnx?download=true"
+    "https://huggingface.co/datasets/Gourieff/ReActor/resolve/main/models/inswapper_128_fp16.onnx?download=true"
+)
+
 INSIGHTFACEANTELOPEV2_MODELS=(
     "https://huggingface.co/MonsterMMORPG/tools/resolve/main/antelopev2.zip"
 )
@@ -146,6 +151,9 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/instantid" \
         "${INSTANTID_MODELS[@]}"
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/models/insightface" \
+        "${INSIGHTFACE_MODELS[@]}"
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/insightface/models/antelopev2" \
         "${INSIGHTFACEANTELOPEV2_MODELS[@]}"
