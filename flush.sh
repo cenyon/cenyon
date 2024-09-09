@@ -88,18 +88,22 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/714655?type=Model&format=SafeTensor" #FLUX BOOBA 
     "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/727461?type=Model&format=SafeTensor" #real-lora
     "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo "bmbpflx"
+    "https://civitai.com/api/download/models/737284?type=Model&format=SafeTensor" #Flux Image Enhancer Clip Skip: 2  Strength: 0.5
     "https://civitai.com/api/download/models/737532?type=Model&format=SafeTensor" #sideboob "sideboob"
     "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/739372?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor" #puckered_Lips_SHS (SDXL-PONY-FLUX) "dlips, lips"
+    "https://civitai.com/api/download/models/752589?type=Model&format=SafeTensor" #Sexy Looking back "ptg"
     "https://civitai.com/api/download/models/753099?type=Model&format=SafeTensor" #Professional Nude Photography V2.0 (FLUX) 
     "https://civitai.com/api/download/models/756239?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/763526?type=Model&format=SafeTensor" #Eerie Atmosphere [FLUX+SDXL] "ral-ertmsphr"
     "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor" #Consistency V32 Lora [FLUX1.D]
+    "https://civitai.com/api/download/models/774102?type=Model&format=SafeTensor" #epiCFluX-Photo LORA Strength:1
     "https://civitai.com/api/download/models/804837?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/817482?type=Model&format=SafeTensor" #Best Jean Shorts (Daisy Dukes) - NSFW "8357J34N5" "pussy peek, wide thigh gap"  "revealing cutoff jean shorts"
