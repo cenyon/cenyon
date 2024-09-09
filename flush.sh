@@ -85,15 +85,19 @@ INSIGHTFACEANTELOPEV2_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/706528?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/712531?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/714655?type=Model&format=SafeTensor" #FLUX BOOBA 
     "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo bmbpflx
+    "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo "bmbpflx"
+    "https://civitai.com/api/download/models/737532?type=Model&format=SafeTensor" #sideboob "sideboob"
     "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/739372?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/753099?type=Model&format=SafeTensor" #Professional Nude Photography V2.0 (FLUX) 
     "https://civitai.com/api/download/models/756239?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/763526?type=Model&format=SafeTensor" #Eerie Atmosphere [FLUX+SDXL] "ral-ertmsphr"
     "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/804837?type=Model&format=SafeTensor"
