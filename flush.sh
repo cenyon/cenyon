@@ -52,7 +52,7 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/lllyasviel/flux1-dev-bnb-nf4/blob/main/flux1-dev-bnb-nf4.safetensors"
     "https://civitai.com/models/623525/flux1d-16gb?modelVersionId=697065"
     "https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors"
-    "https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16" #juggernautXL_juggXIByRundiffusion
 )
 
 CLIP_MODELS=(
