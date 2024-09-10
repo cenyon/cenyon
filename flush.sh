@@ -46,6 +46,9 @@ NODES=(
     "https://github.com/Extraltodeus/ComfyUI-AutomaticCFG"
     "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini"
     "https://github.com/adieyal/comfyui-dynamicprompts"
+    "https://github.com/evanspearman/ComfyMath"
+    "https://github.com/zhongpei/Comfyui_image2prompt"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
 )
 
 CHECKPOINT_MODELS=(
