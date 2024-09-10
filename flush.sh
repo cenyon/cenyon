@@ -49,6 +49,7 @@ NODES=(
     "https://github.com/evanspearman/ComfyMath"
     "https://github.com/zhongpei/Comfyui_image2prompt"
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
 )
 
 CHECKPOINT_MODELS=(
