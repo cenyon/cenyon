@@ -55,6 +55,7 @@ NODES=(
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/StartHua/Comfyui_segformer_b2_clothes"
     "https://github.com/Jannchie/ComfyUI-J"
+    "https://github.com/chflame163/ComfyUI_LayerStyle"
 )
 
 CHECKPOINT_MODELS=(
@@ -185,8 +186,7 @@ function provisioning_start() {
         "${CLIP_MODELS[@]}"
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
-        "${ESRGAN_MODELS[@]}"
-    provisioning_clothes 
+        "${ESRGAN_MODELS[@]}" 
     provisioning_print_end
 }
 
@@ -320,8 +320,12 @@ function provisioning_download() {
 }
 
 function provisioning_clothes(){
-    git lfs install
-
-    git clone "https://huggingface.co/mattmdjaga/segformer_b2_clothes"
+    
+    if [[ -z $MAMBA_BASE ]]; then
+            "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
+        else
+            micromamba run -n comfyui pip install --no-cache-dir "huggingface_hub"
+        fi
+    from huggingface_hub import hf_hub_download repo_id = "mattmdjaga/segformer_b0_clothes" directory_name = "directory_to_download" download_path = hf_hub_download(repo_id=repo_id, filename=directory_name) 
 }
 provisioning_start
