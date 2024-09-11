@@ -61,6 +61,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/models/623525/flux1d-16gb?modelVersionId=697065"
     #"https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors"
     #"https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16" #juggernautXL_juggXIByRundiffusion
+    "https://huggingface.co/mattmdjaga/segformer_b2_clothes/resolve/main/model.safetensors?download=true"
 )
 
 CLIP_MODELS=(
