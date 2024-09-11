@@ -50,6 +50,10 @@ NODES=(
     "https://github.com/zhongpei/Comfyui_image2prompt"
     "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
+    "https://github.com/antrobot1234/antrobots-comfyUI-nodepack"
+    "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/StartHua/Comfyui_segformer_b2_clothes"
+    "https://github.com/Jannchie/ComfyUI-J"
 )
 
 CHECKPOINT_MODELS=(
