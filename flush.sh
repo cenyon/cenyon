@@ -16,6 +16,7 @@ APT_PACKAGES=(
 PIP_PACKAGES=(
     #"package-1"
     #"package-2"
+    "huggingface_hub"
 )
 
 NODES=(
@@ -185,6 +186,7 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
         "${ESRGAN_MODELS[@]}"
+    provisioning_clothes 
     provisioning_print_end
 }
 
@@ -317,4 +319,9 @@ function provisioning_download() {
     fi
 }
 
+function provisioning_clothes(){
+    git lfs install
+
+    git clone "https://huggingface.co/mattmdjaga/segformer_b2_clothes"
+}
 provisioning_start
