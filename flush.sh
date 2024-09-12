@@ -319,13 +319,13 @@ function provisioning_download() {
     fi
 }
 
-function provisioning_clothes(){
+#function provisioning_clothes(){
     
-    if [[ -z $MAMBA_BASE ]]; then
-            "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
-        else
-            micromamba run -n comfyui pip install --no-cache-dir "huggingface_hub"
-        fi
-    from huggingface_hub import hf_hub_download repo_id = "mattmdjaga/segformer_b0_clothes" directory_name = "directory_to_download" download_path = hf_hub_download(repo_id=repo_id, filename=directory_name) 
-}
+    #if [[ -z $MAMBA_BASE ]]; then
+          #  "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
+        #else
+        #    micromamba run -n comfyui pip install --no-cache-dir "huggingface_hub"
+       # fi
+   # from huggingface_hub import hf_hub_download repo_id = "mattmdjaga/segformer_b0_clothes" directory_name = "directory_to_download" download_path = hf_hub_download(repo_id=repo_id, filename=directory_name) 
+#}
 provisioning_start
