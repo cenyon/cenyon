@@ -63,7 +63,8 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/models/623525/flux1d-16gb?modelVersionId=697065"
     #"https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors"
     #"https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16" #juggernautXL_juggXIByRundiffusion
-    "https://huggingface.co/mattmdjaga/segformer_b2_clothes/resolve/main/model.safetensors?download=true"
+    #"https://huggingface.co/mattmdjaga/segformer_b2_clothes/resolve/main/model.safetensors?download=true"
+    "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicrealsim
 )
 
 CLIP_MODELS=(
@@ -94,7 +95,8 @@ INSIGHTFACEANTELOPEV2_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/706528?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/87153?type=Model&format=SafeTensor"  #Add More Details - Detail Enhancer / Tweaker LoRA
+    "https://civitai.com/api/download/models/706528?type=Model&format=SafeTensor" #XLabs Flux Realism LoRA
     "https://civitai.com/api/download/models/712531?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/714655?type=Model&format=SafeTensor" #FLUX BOOBA 
     "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor"
