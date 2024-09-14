@@ -194,6 +194,7 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
         "${ESRGAN_MODELS[@]}" 
+    provisioning_personal
     provisioning_print_end
 }
 
@@ -331,6 +332,10 @@ function provisioning_personal(){
     mkdir inpaint
     cd inpaint
     git clone https://huggingface.co/lllyasviel/fooocus_inpaint .
+    cd /workspace/ComfyUI/models
+    mkdir BiRefNet
+    cd BiRefNet
+    git clone https://huggingface.co/ViperYX/BiRefNet .
     #if [[ -z $MAMBA_BASE ]]; then
           #  "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
         #else
