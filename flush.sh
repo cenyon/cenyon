@@ -336,7 +336,6 @@ function provisioning_personal(){
     git clone https://huggingface.co/ViperYX/BiRefNet ./BiRefNet
     mkdir segformer_b2_clothes
     git clone https://huggingface.co/mattmdjaga/segformer_b2_clothes ./segformer_b2_clothes
-    cd /workspace/ComfyUI/models
     mkdir segformer_b3_fashion
     git clone https://huggingface.co/mattmdjaga/segformer_b2_clothes ./segformer_b3_fashion
     mkdir vitmatte
