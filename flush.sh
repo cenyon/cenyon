@@ -340,6 +340,7 @@ function provisioning_personal(){
     git clone https://huggingface.co/mattmdjaga/segformer_b2_clothes ./segformer_b3_fashion
     mkdir vitmatte
     git clone https://huggingface.co/hustvl/vitmatte-base-composition-1k ./vitmatte
+    git clone https://huggingface.co/h94/IP-Adapter ./ipadapter
     mkdir lama
     
     printf "\nProvisioning personal complete\n\n"
