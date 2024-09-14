@@ -329,15 +329,20 @@ function provisioning_download() {
 
 function provisioning_personal(){
     printf "\nProvisioning personal init\n\n"
-    cd /workspace/ComfyUI/models
+    cd /workspace/ComfyUI/models 
     mkdir inpaint
-    cd inpaint
-    git clone https://huggingface.co/lllyasviel/fooocus_inpaint .
-    cd /workspace/ComfyUI/models
+    git clone https://huggingface.co/lllyasviel/fooocus_inpaint ./inpaint
     mkdir BiRefNet
-    cd BiRefNet
-    git clone https://huggingface.co/ViperYX/BiRefNet .
+    git clone https://huggingface.co/ViperYX/BiRefNet ./BiRefNet
+    mkdir segformer_b2_clothes
+    git clone https://huggingface.co/mattmdjaga/segformer_b2_clothes ./segformer_b2_clothes
+    cd /workspace/ComfyUI/models
+    mkdir segformer_b3_fashion
+    git clone https://huggingface.co/mattmdjaga/segformer_b2_clothes ./segformer_b3_fashion
+    mkdir lama
+    
     printf "\nProvisioning personal complete\n\n"
+    
     #if [[ -z $MAMBA_BASE ]]; then
           #  "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
         #else
