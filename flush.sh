@@ -328,6 +328,7 @@ function provisioning_download() {
 }
 
 function provisioning_personal(){
+    printf "\nProvisioning personal init\n\n"
     cd /workspace/ComfyUI/models
     mkdir inpaint
     cd inpaint
@@ -336,6 +337,7 @@ function provisioning_personal(){
     mkdir BiRefNet
     cd BiRefNet
     git clone https://huggingface.co/ViperYX/BiRefNet .
+    printf "\nProvisioning personal complete\n\n"
     #if [[ -z $MAMBA_BASE ]]; then
           #  "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
         #else
