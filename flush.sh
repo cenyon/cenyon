@@ -53,7 +53,7 @@ NODES=(
     "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
     "https://github.com/antrobot1234/antrobots-comfyUI-nodepack"
     "https://github.com/cubiq/ComfyUI_essentials"
-    #"https://github.com/StartHua/Comfyui_segformer_b2_clothes"
+    "https://github.com/StartHua/Comfyui_segformer_b2_clothes"
     "https://github.com/Jannchie/ComfyUI-J"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
