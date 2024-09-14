@@ -56,6 +56,10 @@ NODES=(
     "https://github.com/StartHua/Comfyui_segformer_b2_clothes"
     "https://github.com/Jannchie/ComfyUI-J"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/Acly/comfyui-inpaint-nodes"
+    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
+    "https://github.com/WASasquatch/was-node-suite-comfyui"
 )
 
 CHECKPOINT_MODELS=(
@@ -65,6 +69,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16" #juggernautXL_juggXIByRundiffusion
     #"https://huggingface.co/mattmdjaga/segformer_b2_clothes/resolve/main/model.safetensors?download=true"
     "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicrealsim
+    "https://civitai.com/api/download/models/789646?type=Model&format=SafeTensor&size=full&fp=fp16" #RealVisXL V5.0 Baked VAE
 )
 
 CLIP_MODELS=(
@@ -321,13 +326,16 @@ function provisioning_download() {
     fi
 }
 
-#function provisioning_clothes(){
-    
+function provisioning_personal(){
+    cd /workspace/ComfyUI/models
+    mkdir inpaint
+    cd inpaint
+    git clone https://huggingface.co/lllyasviel/fooocus_inpaint .
     #if [[ -z $MAMBA_BASE ]]; then
           #  "$COMFYUI_VENV_PIP" install --no-cache-dir "huggingface_hub"
         #else
         #    micromamba run -n comfyui pip install --no-cache-dir "huggingface_hub"
        # fi
    # from huggingface_hub import hf_hub_download repo_id = "mattmdjaga/segformer_b0_clothes" directory_name = "directory_to_download" download_path = hf_hub_download(repo_id=repo_id, filename=directory_name) 
-#}
+}
 provisioning_start
