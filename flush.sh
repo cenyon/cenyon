@@ -114,6 +114,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/737532?type=Model&format=SafeTensor" #sideboob "sideboob"
     "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/739372?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/742813?type=Model&format=SafeTensor" #Flux vividizer | Flux enhancer Strength: 0.6
     "https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor" #puckered_Lips_SHS (SDXL-PONY-FLUX) "dlips, lips"
     "https://civitai.com/api/download/models/752589?type=Model&format=SafeTensor" #Sexy Looking back "ptg"
@@ -127,6 +128,9 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/817482?type=Model&format=SafeTensor" #Best Jean Shorts (Daisy Dukes) - NSFW "8357J34N5" "pussy peek, wide thigh gap"  "revealing cutoff jean shorts"
     "https://civitai.com/api/download/models/820397?type=Model&format=SafeTensor" #realistic skin texture: "detailed photorealism style"
+    "https://civitai.com/api/download/models/827995?type=Model&format=SafeTensor" #Flux detailer V2 "in the style of Jed-clrfl"
+    "https://civitai.com/api/download/models/843807?type=Model&format=SafeTensor" #DaChinFix Flux "chin"
+    "https://civitai.com/api/download/models/751598?type=Model&format=SafeTensor" #Movie portrait - flux dev Clip Skip: 1
 )
 
 ESRGAN_MODELS=(
