@@ -83,7 +83,7 @@ CLIP_MODELS=(
 UNET_MODELS=(
     #"https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8-e4m3fn.safetensors"
     #"https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8-e5m2.safetensors"
-    "https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL.safetensors"
+    #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL.safetensors"
 )
 
 VAE_MODELS=(
