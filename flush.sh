@@ -133,6 +133,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/827995?type=Model&format=SafeTensor" #Flux detailer V2 "in the style of Jed-clrfl"
     "https://civitai.com/api/download/models/843807?type=Model&format=SafeTensor" #DaChinFix Flux "chin"
     "https://civitai.com/api/download/models/751598?type=Model&format=SafeTensor" #Movie portrait - flux dev Clip Skip: 1
+    "https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-lora.safetensors" #AWPortrait-FL"
 )
 
 ESRGAN_MODELS=(
