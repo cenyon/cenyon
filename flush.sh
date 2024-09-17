@@ -11,6 +11,7 @@ DEFAULT_WORKFLOW="https://raw.githubusercontent.com/ai-dock/comfyui/main/config/
 APT_PACKAGES=(
     #"package-1"
     #"package-2"
+    "trash-cli"
 )
 
 PIP_PACKAGES=(
