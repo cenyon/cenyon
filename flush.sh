@@ -61,6 +61,7 @@ NODES=(
     "https://github.com/Acly/comfyui-inpaint-nodes"
     "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
+    "https://github.com/crystian/ComfyUI-Crystools"
 )
 
 CHECKPOINT_MODELS=(
