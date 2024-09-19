@@ -72,7 +72,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/mattmdjaga/segformer_b2_clothes/resolve/main/model.safetensors?download=true"
     #"https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epicrealsim
     #"https://civitai.com/api/download/models/789646?type=Model&format=SafeTensor&size=full&fp=fp16" #RealVisXL V5.0 Baked VAE
-    "https://civitai.com/api/download/models/646523?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epiCRealism XL
+    #"https://civitai.com/api/download/models/646523?type=Model&format=SafeTensor&size=pruned&fp=fp16" #epiCRealism XL
 )
 
 CLIP_MODELS=(
