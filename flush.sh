@@ -62,6 +62,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/crystian/ComfyUI-Crystools"
+    "https://github.com/giriss/comfy-image-saver"
 )
 
 CHECKPOINT_MODELS=(
