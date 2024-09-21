@@ -239,7 +239,7 @@
 	],
 	"properties": {},
 	"widgets_values": [
-	"%date:yyyy-MM-dd%/Flux_%date:hhmmss%_%Seed.seed%"
+	"%date:yyyy-MM-dd%/Flux_%date:hhmmss%"
 	]
 },
 {
