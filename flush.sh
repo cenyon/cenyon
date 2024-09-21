@@ -63,6 +63,7 @@ NODES=(
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/crystian/ComfyUI-Crystools"
     "https://github.com/giriss/comfy-image-saver"
+    "https://github.com/11cafe/comfyui-workspace-manager"
 )
 
 CHECKPOINT_MODELS=(
