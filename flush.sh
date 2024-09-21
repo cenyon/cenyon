@@ -90,6 +90,7 @@ UNET_MODELS=(
 )
 
 VAE_MODELS=(
+    "https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/vae/diffusion_pytorch_model.safetensors"
 )
 
 INSTANTID_MODELS=(
