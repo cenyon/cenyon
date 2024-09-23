@@ -117,6 +117,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/727461?type=Model&format=SafeTensor" #real-lora
     "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo "bmbpflx"
+    "https://civitai.com/api/download/models/736227?type=Model&format=SafeTensor" #SCG-Anatomy-Flux1.d - NSFW LoRA for Flux! "scg-anatomy-female"
     "https://civitai.com/api/download/models/737284?type=Model&format=SafeTensor" #Flux Image Enhancer Clip Skip: 2  Strength: 0.5
     "https://civitai.com/api/download/models/737532?type=Model&format=SafeTensor" #sideboob "sideboob"
     "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
@@ -140,7 +141,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/827995?type=Model&format=SafeTensor" #Flux detailer V2 "in the style of Jed-clrfl"
     "https://civitai.com/api/download/models/843807?type=Model&format=SafeTensor" #DaChinFix Flux "chin"
     "https://civitai.com/api/download/models/857446?type=Model&format=SafeTensor" #sameface fix FLUX "woman"
-    "https://civitai.com/api/download/models/736227?type=Model&format=SafeTensor" #SCG-Anatomy-Flux1.d - NSFW LoRA for Flux! "scg-anatomy-female"
+    "https://civitai.com/api/download/models/872485?type=Model&format=SafeTensor" #Huge natural breasts for FLUX "Clip Skip: 1"
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-lora.safetensors" #AWPortrait-FL"
 )
 
