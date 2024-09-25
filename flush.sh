@@ -88,6 +88,7 @@ UNET_MODELS=(
     #"https://huggingface.co/Kijai/flux-fp8/resolve/main/flux1-dev-fp8-e5m2.safetensors"
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-fp8.safetensors"
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL.safetensors"
+    "https://civitai.com/api/download/models/783949?type=Model&format=SafeTensor&size=pruned&fp=nf4"
 )
 
 VAE_MODELS=(
