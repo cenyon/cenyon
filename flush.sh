@@ -119,6 +119,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/727461?type=Model&format=SafeTensor" #real-lora
     "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo "bmbpflx"
+    "https://civitai.com/api/download/models/734666?type=Model&format=SafeTensor" #Pure woman Flux
     "https://civitai.com/api/download/models/736227?type=Model&format=SafeTensor" #SCG-Anatomy-Flux1.d - NSFW LoRA for Flux! "scg-anatomy-female"
     "https://civitai.com/api/download/models/737284?type=Model&format=SafeTensor" #Flux Image Enhancer Clip Skip: 2  Strength: 0.5
     "https://civitai.com/api/download/models/737532?type=Model&format=SafeTensor" #sideboob "sideboob"
