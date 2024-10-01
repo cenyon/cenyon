@@ -156,7 +156,14 @@ ESRGAN_MODELS=(
 CONTROLNET_MODELS=(
     "https://civitai.com/api/download/models/722001?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/726743?type=Model&format=SafeTensor"
-    "https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union/blob/main/diffusion_pytorch_model.safetensors"
+)
+
+FLUX_CONTROLNET_MODELS=(
+    ""https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union/blob/main/diffusion_pytorch_model.safetensors""
+)    
+
+FLUX_Shakker_Labs_CONTROLNET_MODELS=(
+    "https://huggingface.co/Shakker-Labs/FLUX.1-dev-ControlNet-Union-Pro/resolve/main/diffusion_pytorch_model.safetensors"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
@@ -195,6 +202,12 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/controlnet" \
         "${CONTROLNET_MODELS[@]}"
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/models/controlnet/flux" \
+        "${FLUX_CONTROLNET_MODELS[@]}"   
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/models/controlnet/flux/shakerlabs" \
+        "${FLUX_Shakker_Labs_CONTROLNET_MODELS[@]}"     
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/vae" \
         "${VAE_MODELS[@]}"
