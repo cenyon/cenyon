@@ -143,6 +143,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/824319?type=Model&format=SafeTensor" #BreastShaper_splendid_droplets (Flux) v3.0 "beautiful droplet-shaped breasts, naked, puffy nipples (breasts naturally shaped like teardrops)"
     "https://civitai.com/api/download/models/827995?type=Model&format=SafeTensor" #Flux detailer V2 "in the style of Jed-clrfl"
     "https://civitai.com/api/download/models/843807?type=Model&format=SafeTensor" #DaChinFix Flux "chin"
+    "https://civitai.com/api/download/models/857212?type=Model&format=SafeTensor" #Round Boobs for Flux "round_boobs"
     "https://civitai.com/api/download/models/857446?type=Model&format=SafeTensor" #sameface fix FLUX "woman"
     "https://civitai.com/api/download/models/872485?type=Model&format=SafeTensor" #Huge natural breasts for FLUX "Clip Skip: 1"
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-lora.safetensors" #AWPortrait-FL"
