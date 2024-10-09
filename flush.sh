@@ -141,6 +141,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/817482?type=Model&format=SafeTensor" #Best Jean Shorts (Daisy Dukes) - NSFW "8357J34N5" "pussy peek, wide thigh gap"  "revealing cutoff jean shorts"
     "https://civitai.com/api/download/models/820397?type=Model&format=SafeTensor" #realistic skin texture: "detailed photorealism style"
     "https://civitai.com/api/download/models/824319?type=Model&format=SafeTensor" #BreastShaper_splendid_droplets (Flux) v3.0 "beautiful droplet-shaped breasts, naked, puffy nipples (breasts naturally shaped like teardrops)"
+    "https://civitai.com/api/download/models/827325?type=Model&format=SafeTensor" #Flux Skin real "realskin"
     "https://civitai.com/api/download/models/827995?type=Model&format=SafeTensor" #Flux detailer V2 "in the style of Jed-clrfl"
     "https://civitai.com/api/download/models/843807?type=Model&format=SafeTensor" #DaChinFix Flux "chin"
     "https://civitai.com/api/download/models/857212?type=Model&format=SafeTensor" #Round Boobs for Flux "round_boobs"
