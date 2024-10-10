@@ -144,6 +144,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/827325?type=Model&format=SafeTensor" #Flux Skin real "realskin"
     "https://civitai.com/api/download/models/827995?type=Model&format=SafeTensor" #Flux detailer V2 "in the style of Jed-clrfl"
     "https://civitai.com/api/download/models/843807?type=Model&format=SafeTensor" #DaChinFix Flux "chin"
+    "https://civitai.com/api/download/models/845302?type=Model&format=SafeTensor" #Bysty_girls V1 "masterpiece, high quality, 8k, (looking at viewer : 1.1), beautiful, hot, seductive, woman with tan skin, medium breasts, standing, sexual poses, long straight black hair, (eye contact : 1.1), pretty face, (detailed face : 1.2), (animated : 1.2), hyper detailed, high resolution, cozy interior, photorealistic, high resolution, detailed, raw photo, 1 girl, full body nude, slim waist, showing pussy, big pussy, pussy lips, instagram photo, shaved pussy"
     "https://civitai.com/api/download/models/857212?type=Model&format=SafeTensor" #Round Boobs for Flux "round_boobs"
     "https://civitai.com/api/download/models/857446?type=Model&format=SafeTensor" #sameface fix FLUX "woman"
     "https://civitai.com/api/download/models/872485?type=Model&format=SafeTensor" #Huge natural breasts for FLUX "Clip Skip: 1"
