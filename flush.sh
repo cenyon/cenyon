@@ -66,6 +66,7 @@ NODES=(
     "https://github.com/11cafe/comfyui-workspace-manager"
     "https://github.com/civitai/civitai_comfy_nodes"
     "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/sipherxyz/comfyui-art-venture"
 )
 
 CHECKPOINT_MODELS=(
