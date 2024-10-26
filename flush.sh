@@ -151,6 +151,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/857446?type=Model&format=SafeTensor" #sameface fix FLUX "woman"
     "https://civitai.com/api/download/models/872485?type=Model&format=SafeTensor" #Huge natural breasts for FLUX "Clip Skip: 1"
     "https://civitai.com/api/download/models/967375?type=Model&format=SafeTensor" #Velvet's Mythic Fantasy Styles | Flux + Pony Flux V2  "mythp0rt " urn:air:flux1:lora:civitai:599757@967375
+    "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor" #Pyro's PMI (Pony Mass Index) for FLUX 
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-lora.safetensors" #AWPortrait-FL"
 )
 
