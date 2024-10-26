@@ -21,52 +21,52 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    "https://github.com/EeroHeikkinen/ComfyUI-eesahesNodes"
+    #"https://github.com/EeroHeikkinen/ComfyUI-eesahesNodes"
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    "https://github.com/cubiq/ComfyUI_essentials"
-    "https://github.com/XLabs-AI/x-flux-comfyui"
-    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
-    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
-    "https://github.com/yolain/ComfyUI-Easy-Use"
-    "https://github.com/JPS-GER/ComfyUI_JPS-Nodes"
-    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
-    "https://github.com/twri/sdxl_prompt_styler"
-    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
-    "https://github.com/picturesonpictures/comfy_PoP"
-    "https://github.com/jags111/efficiency-nodes-comfyui"
-    "https://github.com/BadCafeCode/masquerade-nodes-comfyui"
+    #"https://github.com/cubiq/ComfyUI_essentials"
+    #"https://github.com/XLabs-AI/x-flux-comfyui"
+    #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    #"https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
+    #"https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    #"https://github.com/yolain/ComfyUI-Easy-Use"
+    #"https://github.com/JPS-GER/ComfyUI_JPS-Nodes"
+    #"https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    #"https://github.com/twri/sdxl_prompt_styler"
+    #"https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    #"https://github.com/picturesonpictures/comfy_PoP"
+    #"https://github.com/jags111/efficiency-nodes-comfyui"
+    #"https://github.com/BadCafeCode/masquerade-nodes-comfyui"
     #"https://github.com/LykosAI/ComfyUI-Inference-Core-Nodes"
-    "https://github.com/kijai/ComfyUI-KJNodes"
-    "https://github.com/BlenderNeko/ComfyUI_TiledKSampler"
-    "https://github.com/chflame163/ComfyUI_LayerStyle"
-    "https://github.com/Ryuukeisyou/comfyui_face_parsing"
-    "https://github.com/Gourieff/comfyui-reactor-node"
-    "https://github.com/syllebra/bilbox-comfyui"
-    "https://github.com/wallish77/wlsh_nodes"
-    "https://github.com/cubiq/ComfyUI_InstantID"
-    "https://github.com/Extraltodeus/ComfyUI-AutomaticCFG"
-    "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini"
+    #"https://github.com/kijai/ComfyUI-KJNodes"
+    #"https://github.com/BlenderNeko/ComfyUI_TiledKSampler"
+    #"https://github.com/chflame163/ComfyUI_LayerStyle"
+    #"https://github.com/Ryuukeisyou/comfyui_face_parsing"
+    #"https://github.com/Gourieff/comfyui-reactor-node"
+    #"https://github.com/syllebra/bilbox-comfyui"
+    #"https://github.com/wallish77/wlsh_nodes"
+    #"https://github.com/cubiq/ComfyUI_InstantID"
+    #"https://github.com/Extraltodeus/ComfyUI-AutomaticCFG"
+    #"https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini"
     #"https://github.com/adieyal/comfyui-dynamicprompts"
-    "https://github.com/evanspearman/ComfyMath"
-    "https://github.com/zhongpei/Comfyui_image2prompt"
-    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
-    "https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
-    "https://github.com/antrobot1234/antrobots-comfyUI-nodepack"
-    "https://github.com/cubiq/ComfyUI_essentials"
-    "https://github.com/StartHua/Comfyui_segformer_b2_clothes"
-    "https://github.com/Jannchie/ComfyUI-J"
-    "https://github.com/chflame163/ComfyUI_LayerStyle"
-    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
-    "https://github.com/Acly/comfyui-inpaint-nodes"
-    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
-    "https://github.com/WASasquatch/was-node-suite-comfyui"
-    "https://github.com/crystian/ComfyUI-Crystools"
-    "https://github.com/giriss/comfy-image-saver"
-    "https://github.com/11cafe/comfyui-workspace-manager"
-    "https://github.com/civitai/civitai_comfy_nodes"
-    "https://github.com/rgthree/rgthree-comfy"
-    "https://github.com/sipherxyz/comfyui-art-venture"
+    #"https://github.com/evanspearman/ComfyMath"
+    #"https://github.com/zhongpei/Comfyui_image2prompt"
+    #"https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    #"https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch"
+    #"https://github.com/antrobot1234/antrobots-comfyUI-nodepack"
+    #"https://github.com/cubiq/ComfyUI_essentials"
+    #"https://github.com/StartHua/Comfyui_segformer_b2_clothes"
+    #"https://github.com/Jannchie/ComfyUI-J"
+    #"https://github.com/chflame163/ComfyUI_LayerStyle"
+    #"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    #"https://github.com/Acly/comfyui-inpaint-nodes"
+    #"https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
+    #"https://github.com/WASasquatch/was-node-suite-comfyui"
+    #"https://github.com/crystian/ComfyUI-Crystools"
+    #"https://github.com/giriss/comfy-image-saver"
+    #"https://github.com/11cafe/comfyui-workspace-manager"
+    #"https://github.com/civitai/civitai_comfy_nodes"
+    #"https://github.com/rgthree/rgthree-comfy"
+    #"https://github.com/sipherxyz/comfyui-art-venture"
 )
 
 CHECKPOINT_MODELS=(
@@ -83,7 +83,7 @@ CHECKPOINT_MODELS=(
 CLIP_MODELS=(
     "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors"
     "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors"
-    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp8_e4m3fn.safetensors?download=true"
+    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp8_e4m3fn.safetensors"
 )
 
 UNET_MODELS=(
@@ -92,6 +92,7 @@ UNET_MODELS=(
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-fp8.safetensors"
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL.safetensors"
     #"https://civitai.com/api/download/models/780115?type=Model&format=SafeTensor&size=pruned&fp=fp8" #Centerfold Flux
+    "https://huggingface.co/city96/FLUX.1-dev-gguf/resolve/main/flux1-dev-Q8_0.gguf?download=true"
 )
 
 VAE_MODELS=(
@@ -167,7 +168,7 @@ CONTROLNET_MODELS=(
 )
 
 FLUX_CONTROLNET_MODELS=(
-    ""https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union/blob/main/diffusion_pytorch_model.safetensors""
+    "https://huggingface.co/InstantX/FLUX.1-dev-Controlnet-Union/blob/main/diffusion_pytorch_model.safetensors"
 )    
 
 FLUX_Shakker_Labs_CONTROLNET_MODELS=(
