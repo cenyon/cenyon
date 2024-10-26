@@ -61,11 +61,11 @@ NODES=(
     #"https://github.com/Acly/comfyui-inpaint-nodes"
     #"https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
     #"https://github.com/WASasquatch/was-node-suite-comfyui"
-    #"https://github.com/crystian/ComfyUI-Crystools"
+    "https://github.com/crystian/ComfyUI-Crystools"
     #"https://github.com/giriss/comfy-image-saver"
-    #"https://github.com/11cafe/comfyui-workspace-manager"
+    "https://github.com/11cafe/comfyui-workspace-manager"
     #"https://github.com/civitai/civitai_comfy_nodes"
-    #"https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/rgthree/rgthree-comfy"
     #"https://github.com/sipherxyz/comfyui-art-venture"
 )
 
