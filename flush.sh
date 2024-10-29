@@ -67,6 +67,7 @@ NODES=(
     #"https://github.com/civitai/civitai_comfy_nodes"
     "https://github.com/rgthree/rgthree-comfy"
     #"https://github.com/sipherxyz/comfyui-art-venture"
+    "https://github.com/kijai/ComfyUI-CogVideoXWrapper"
 )
 
 CHECKPOINT_MODELS=(
