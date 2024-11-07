@@ -156,6 +156,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor" #Pyro's PMI (Pony Mass Index) for FLUX 
     "https://civitai.com/api/download/models/955535?type=Model&format=SafeTensor" #FLUX [pro] 1.1 Style Lora - Extreme Detailer for [FLUX.1-dev] v 0.2 "aidmafluxpro1.1" urn:air:flux1:lora:civitai:832683@955535
     "https://civitai.com/api/download/models/795612?type=Model&format=SafeTensor" #Sexy Slim Streamer E-Girl (Flux) urn:air:flux1:lora:civitai:711332@795612
+    "https://civitai.com/api/download/models/1028490?type=Model&format=SafeTensor" #SECRET SAUCE urn:air:flux1:lora:civitai:889205@1028490
     #"https://huggingface.co/Shakker-Labs/AWPortrait-FL/resolve/main/AWPortrait-FL-lora.safetensors" #AWPortrait-FL"
 )
 
