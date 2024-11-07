@@ -116,33 +116,33 @@ INSIGHTFACEANTELOPEV2_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/87153?type=Model&format=SafeTensor"  #Add More Details - Detail Enhancer / Tweaker LoRA
     "https://civitai.com/api/download/models/706528?type=Model&format=SafeTensor" #XLabs Flux Realism LoRA
-    "https://civitai.com/api/download/models/712531?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/712531?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/714655?type=Model&format=SafeTensor" #FLUX BOOBA 
-    "https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/721679?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/723657?type=Model&format=SafeTensor" #[Flux/Pony] Perfect Full Round Breasts & Slim Waist
     "https://civitai.com/api/download/models/727461?type=Model&format=SafeTensor" #real-lora
-    "https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/728359?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/733045?type=Model&format=SafeTensor" #bimbo "bmbpflx"
     "https://civitai.com/api/download/models/734666?type=Model&format=SafeTensor" #Pure woman Flux
     "https://civitai.com/api/download/models/736227?type=Model&format=SafeTensor" #SCG-Anatomy-Flux1.d - NSFW LoRA for Flux! "scg-anatomy-female"
     "https://civitai.com/api/download/models/737284?type=Model&format=SafeTensor" #Flux Image Enhancer Clip Skip: 2  Strength: 0.5
     "https://civitai.com/api/download/models/737532?type=Model&format=SafeTensor" #sideboob "sideboob"
-    "https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/739372?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/739154?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/739372?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/742813?type=Model&format=SafeTensor" #Flux vividizer | Flux enhancer Strength: 0.6
-    "https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/745950?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/750146?type=Model&format=SafeTensor" #puckered_Lips_SHS (SDXL-PONY-FLUX) "dlips, lips"
     "https://civitai.com/api/download/models/751598?type=Model&format=SafeTensor" #Movie portrait - flux dev Clip Skip: 1
     "https://civitai.com/api/download/models/752589?type=Model&format=SafeTensor" #Sexy Looking back "ptg"
     "https://civitai.com/api/download/models/753099?type=Model&format=SafeTensor" #Professional Nude Photography V2.0 (FLUX) 
-    "https://civitai.com/api/download/models/756239?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/756239?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/763526?type=Model&format=SafeTensor" #Eerie Atmosphere [FLUX+SDXL] "ral-ertmsphr"
     "https://civitai.com/api/download/models/766438?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/769270?type=Model&format=SafeTensor" #Consistency V32 Lora [FLUX1.D]
     "https://civitai.com/api/download/models/774102?type=Model&format=SafeTensor" #epiCFluX-Photo LORA Strength:1
-    "https://civitai.com/api/download/models/804837?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/817482?type=Model&format=SafeTensor" #Best Jean Shorts (Daisy Dukes) - NSFW "8357J34N5" "pussy peek, wide thigh gap"  "revealing cutoff jean shorts"
+    #"https://civitai.com/api/download/models/804837?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/808809?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/817482?type=Model&format=SafeTensor" #Best Jean Shorts (Daisy Dukes) - NSFW "8357J34N5" "pussy peek, wide thigh gap"  "revealing cutoff jean shorts"
     "https://civitai.com/api/download/models/820397?type=Model&format=SafeTensor" #realistic skin texture: "detailed photorealism style"
     "https://civitai.com/api/download/models/824319?type=Model&format=SafeTensor" #BreastShaper_splendid_droplets (Flux) v3.0 "beautiful droplet-shaped breasts, naked, puffy nipples (breasts naturally shaped like teardrops)"
     "https://civitai.com/api/download/models/827325?type=Model&format=SafeTensor" #Flux Skin real "realskin"
